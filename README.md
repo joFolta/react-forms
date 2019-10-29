@@ -1,5 +1,7 @@
 # react-forms
 
+![Preview](/public/preview.png)
+
 React tutorial
 https://scrimba.com/p/p7P5Hd/cW8Jdfy
 
